@@ -1,0 +1,11 @@
+# Site settings
+title: Study Notes
+email: pgtnetwork@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is just a bunch of study notes, is not a blog. Dont take this serious...
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://pgt.github.io" # the base hostname & protocol for your site
+github_username:  pgt
+
+# Build settings
+markdown: kramdown
